@@ -19,3 +19,4 @@ btn.addEventListener("click", (btn) => {
     input.value = '';  
 });
 
+//me cago en mi puta vida
