@@ -4,9 +4,9 @@ En esta aplicación de navegador podrás hacre uso de un administrador de tareas
 
 ---
 
-#Proceso de instalación:
+# Proceso de instalación:
 
-##Descargar repositorio
+## Descargar repositorio
 
 Abre la consola de tu ordenador o bien por el comando Win + R, abriendo con click derecho en el escritorio o buscando "Terminal" en la barra de navegación. A continuación introduce este comando y pulsa Enter:
 
